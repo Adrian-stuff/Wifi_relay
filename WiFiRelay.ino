@@ -16,8 +16,8 @@
 int relayPins[] = { 26, 27 };
 
 // *********** WIFI CONFIG ***********
-const char* ssid = "WAG KAMI MABAGAL NET!!";
-const char* password = "binatog143";
+const char* ssid = "your ssid here";
+const char* password = "your password";
 
 // *********** RELAY STATES ***********
 bool relayStates[] = { false, false };
